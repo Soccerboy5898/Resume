@@ -16,8 +16,8 @@ body * {
 
 .text-container {
     position: relative;
-  width: 70%;
-    top: 25px;
+  width: 80%;
+    top: 50px;
   float: right;
 }
 
@@ -41,10 +41,10 @@ header{
 h2{
 	font-family: 'Old Standard TT', serif;
 	font-weight:bold;
-	font-size:15px;
+	font-size:20px;
 	height:20px;
-	margin:4px;
-	letter-spacing:15px;
+	margin:0px;
+	
 
 
 }
@@ -62,7 +62,7 @@ h4{
 	font-weight:400;
 	font-size:12px;
 	margin:0px;
-	margin-top:-5px;
+	margin-top:-20px;
 	
 }
 
