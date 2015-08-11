@@ -30,7 +30,7 @@ body * {
 
 header{
 	font-family: 'Old Standard TT', serif;
-	font-size:150%;
+	font-size:200%;
 	font-weight:700;
 	letter-spacing:1px;
 	margin-bottom:20px;
@@ -61,7 +61,7 @@ h4{
 	font-style:italic;
 	font-weight:400;
 	font-size:12px;
-	margin:px;
+	margin:0px;
 	margin-top:-5px;
 	
 }
