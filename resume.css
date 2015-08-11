@@ -44,7 +44,6 @@ h2{
 	font-size:20px;
 	height:20px;
 	margin:0px;
-	
 
 
 }
@@ -53,7 +52,7 @@ h3{
 	font-family: 'Old Standard TT', serif;
 	font-weight:400;
 	margin:0px;
-	margin-top:-20px;
+	margin-top:-10px;
 }
 
 h4{
@@ -62,8 +61,7 @@ h4{
 	font-weight:400;
 	font-size:12px;
 	margin:0px;
-	margin-top:-20px;
-	
+	margin-top:-15px;
 }
 
 .section{
