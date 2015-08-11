@@ -17,7 +17,7 @@ body * {
 .text-container {
     position: relative;
   width: 80%;
-    top: 50px;
+    top: 35px;
   float: right;
 }
 
@@ -44,6 +44,7 @@ h2{
 	font-size:20px;
 	height:20px;
 	margin:0px;
+	letter-spacing:5px;
 
 
 }
